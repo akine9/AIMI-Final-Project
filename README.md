@@ -15,3 +15,5 @@ git clone https://github.com/DIAGNijmegen/picai_baseline.git
 ```bash
 git clone https://github.com/DIAGNijmegen/picai_unet_semi_supervised_gc_algorithm.git
 ```
+
+The Jupyter notebook file demonstrates the steps and calculations involved in selecting the region of interest (ROI) for cropping, ensuring that the prostate is accurately targeted within the input MRI images.
