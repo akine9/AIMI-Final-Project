@@ -7,8 +7,11 @@ This repository builds upon the [U-Net (semi-supervised) baseline](https://githu
 To get started with our code it is therefore necessary to first clone those repositories.
 
 ## Clone the U-Net (semi-supervised) baseline repository
-'''bash
+```bash
 git clone https://github.com/DIAGNijmegen/picai_baseline.git
-'''
+```
+
 ## Clone the provided repository for inference
+```bash
 git clone https://github.com/DIAGNijmegen/picai_unet_semi_supervised_gc_algorithm.git
+```
